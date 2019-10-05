@@ -1,7 +1,7 @@
 # Memory - Design Document
 
 ## Instructions: 
--	Type “git clone [INSERT REPO LINK HERE]” in your Terminal
+-	Type “git clone https://github.com/kaseyluo/Memory.git” in your Terminal
 -	Type “python3 memory.py”
 -	Follow terminal prompts to continue playing! 
 
